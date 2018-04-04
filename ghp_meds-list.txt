@@ -1,5 +1,5 @@
-### Glen Piper - Medications - 10/20/2016
-## Last Time Given to Dr. Nguyen - 10/20/2016
+### Glen Piper - Medications - 03/29/2018
+## Last Time Given to Dr. Nguyen - 03/29/2018
 
 ##### Prescription - Non-Daily
 -   Maxalt MLT 10mg - 1 tab as needed, 2nd after 2hrs if necessary - 9 Left
@@ -9,13 +9,10 @@
 -   Atorvastatin 20mg                 - 1 x 1 daily (PM)xx0R
 -   Benazepril HCL 10mg               - 1 x 2 daily (AM/PM)xx1R6/15/17
 -   Bupropion HCL SR 150mg            - 1 x 2 daily (AM/PM)xx0R
--   Januvia 100mg                     - 1 x 1 daily (PM)xx1R6/15/17
 -   Metformin HCL 850mg               - 1 x 2 daily (AM/PM)xx0R
 -   Topamirate 50mg                   - 1 x 1 daily (PM)xx1R9/16/17
 -   Venlafaxine HCL ER 150mg CAP      - 1 x 1 daily (PM)xx0R
--   Venlafaxine HCL ER 75mg CAP       - 1 x 1 daily (PM)xx0R
 
--   Nexium 20mg                     - 1 x 1 daily (AM) - Currently OTC / Need Rx
 
 ##### Non-Prescription - Daily
 -   Adult Low Strength Aspirin 81mg   - 1 x 1 daily (AM)xx
@@ -24,7 +21,3 @@
 -   Melatonin 5mg                     - 1 x 1 daily (PM)xx
 -   Ocuvite Adult 50+						- 1 x 1 daily (AM)
 -   Slow Release Iron Supplement 45mg	- 1 x 1 daily (PM)xx
-
-##### Not Taking / No Longer Needed
--   Latuda 40mg								- 1 x 1 daily (PM)
--   Lysine										- 1 x 1 daily (PM)
