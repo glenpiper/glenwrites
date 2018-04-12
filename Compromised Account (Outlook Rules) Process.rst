@@ -1,11 +1,11 @@
-:Title: Compromised Account Script/Process (Outlook Rules)  
-:Author: Glen Piper)  
-:Date: 2018.Apr.06)  
+:Title: Compromised Account Script/Process (Outlook Rules)
+:Author: Glen Piper
+:Date: 2018.Apr.06
 
 
-##
+##################################################
 Compromised Account (Outlook Rules) Script/Process
-##
+##################################################
 
 Please ensure that you:
 ----------------------
