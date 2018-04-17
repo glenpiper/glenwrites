@@ -17,8 +17,10 @@
 
     **Weight:** 10%
 
-    **Comments:**
+    Selected: 4
 
+    **Comments:**
+    Mike's first year in the Tech II role has been one of steady improvement while he worked to become more comfortable with his new responsibilities. He asked good questions, retained the answers, and has been able to pass the information along to coworkers.
 
 
 **2. ATTITUDE:**
@@ -33,8 +35,11 @@
 
     **Weight:** 9%
 
+    Selected: 5
+
     **Comments:**
 
+    Mike is a key contributer and leader in the Service Desk. He is invariably positive in his outlook and team oriented in his focus. He is very good at working with the students, encouraging them even as he holds them accountable & coaches them towards improvement. He shows pride in his work without being overly proud or self-centered.
 
 
 **3. EXTERNAL COMMUNICATION:**
@@ -49,8 +54,11 @@
 
     **Weight:** 9%
 
+    Selected: 3
+
     **Comments:**
 
+    For the most part, Mike is effective in his communication & interaction with clients and other groups within Client Services. This has carried over from his time as a Tech I, and has improved as he's become more comfortable in his role as a Tech II. His interactions with the other IT departments is more of a work in progress, as Mike is still getting acquainted with some of the players and learning many of the relationships. I fully expect that time will yield a comfort level and mastery of both.
 
 
 **4. INITIATIVE:**
@@ -65,9 +73,11 @@
 
     **Weight:** 9%
 
+    Selected: 4
+
     **Comments:**
 
-
+    Mike is always looking for new things to learn and new, better, ways to approach getting things done. When given specific instructions, Mike can be counted on to not only follow them, but to also offer salient suggestions along with the requested results. He knows the importance of adding value.
 
 
 **5. INTERPERSONAL RELATIONS:**
@@ -82,8 +92,11 @@
 
     **Weight:** 9%
 
+    Selected: 4
+
     **Comments:**
 
+    Mike is a tremendously positive presence at the Service Desk, and a vital element in the positive mix that we currently enjoy. He gets along amazingly well with coworkers and students, and is quickly learning the self-confidence necessary to excel in interactions outside the group, particularly with middle and upper management.
 
 
 **6. JOB KNOWLEDGE:**
@@ -98,8 +111,11 @@
 
     **Weight:** 9%
 
+    Selected: 3
+
     **Comments:**
 
+    Mike's job knowledge of, and familiarity with, the requirements of a Tech II is steadily increasing. Through no fault of his own, owing to a vacancy in the Service Desk for the majority of the past year, Mike wasn't able to truly transition from the operational duties of a Tech I to those of a Tech II until January. This slowed his assimilation of Tech II skills, albeit for the greater good. That said, in the past three months, Mike has made great strides in developing his new skill set and responsibilities.
 
 
 **7. ORGANIZATION AND USE OF TIME:**
@@ -114,8 +130,11 @@
 
     **Weight:** 9%
 
+    Selected: 4
+
     **Comments:**
 
+    I can count on Mike. He has stepped up in his new role, such that I can now count on him for more than just handling the phones and working tickets. If an example needs to be set/modeled, Mike gets it done. If info needs to get communicated to the students across the day's shifts, Mike gets it done. If a tricky incident needs to be handled and/or investigated properly, Mike gets it done. He is good and he wants to keep learning and improving.
 
 
 **8. QUALITY OF WORK:**
@@ -128,8 +147,11 @@
 
     **Weight:** 9%
 
+    Selected: 3
+
     **Comments:**
 
+    Generally speaking, Mike does not need much oversight and produces high quality work. At times, particularly when things get really busy and/or odd/complex, some errors can slip in. This is not a big issue, nor is it a frequent one, but it is one that can be viewed as an area for focus and improvement. Experience and self-confidence will bring the ability to have things slow down just enough to enable the focus and quality to improve.
 
 
 **9. QUANTITY OF WORK:**
@@ -144,8 +166,11 @@
 
     **Weight:** 9%
 
+    Selected: 4
+
     **Comments:**
 
+    Mike produces not only good work, but he produces a good amount of it. The mix of his work product has been changing as he has transitioned more completely into the Tech II role/duties, and I anticipate this to continue in the future. As it does, and as he becomes more comfortable with the new expectations/duties, I also expect the quantity of work to increase.
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:**
