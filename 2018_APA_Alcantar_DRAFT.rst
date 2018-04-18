@@ -204,10 +204,11 @@
 
     **Weight:** 9%
 
-
+    Selected: 4
 
     **Comments:**
 
+    This is a tricky category for the Service Desk, as the fluid & ever changing nature of the technology we support makes it difficult for anyone to truly "master" everything. That said, Mike makes a really good run at it and is probably at a 4.5/5 & the all-around tech leader at the Service Desk. He pushes himself to learn the base/standard technologies, the changes that new tech cause in/to them, and to quickly get up to speed on the new tech as it hits us. And while he's doing this, he also keeps in mind the necessity of processing it in such a way that it becomes understandable for the SD staff and clients.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:**
