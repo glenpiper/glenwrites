@@ -17,10 +17,11 @@
 
     **Weight:** 10%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Will is at a proper place on the learning curve, given his time here at the Service Desk (3 months as an FTE, plus his previous experience as a student technician). He has demonstrated an ability and willingness to quickly learn our policies and procedures.
 
 
 **2. ATTITUDE:**
@@ -35,9 +36,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
+
+    Will has proven to be a good teammate and addition to the Service Desk. His transition from a student worker to an FTE has been uneventful (that is to say, positive). He responds well to constructive criticism, keeps a positive attitude, and always shows a willingness to learn and work for the greater good.
 
 
 **3. EXTERNAL COMMUNICATION:**
@@ -52,10 +55,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Will is very personable and understands the importance of our shared goal to emphasize the client experience. He is learning to interact with other IT groups/staff as a colleague, making positive progress and looking more comfortable every day.
 
 
 **4. INITIATIVE:**
@@ -70,11 +74,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
-
+    Will is very good about following instructions as they are given, understanding that this is an important part of his learning process at this point. He has also displayed an ability to make insightful contributions as needed/appropriate.
 
 
 **5. INTERPERSONAL RELATIONS:**
@@ -89,10 +93,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Will gets along well with everyone at the Service Desk, and is quickly establishing himself as a reliable resource to those outside of the Service Desk. He has also been successful in establishing rapport with clients.
 
 
 **6. JOB KNOWLEDGE:**
@@ -107,8 +112,11 @@
 
     **Weight:** 9%
 
+    Selected: 3
+
     **Comments:**
 
+    Will has a solid understanding of what is expected of him as a Tech I - his foundation is good. He is eager to learn more and expand his experience and knowledge base, and asks good questions about how he can/should go about doing so.
 
 
 **7. ORGANIZATION AND USE OF TIME:**
@@ -123,10 +131,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Will can be counted on to get the majority of his work done promptly and within deadlines. Time management and prioritization, however, are areas in which Will does need to spend some time & effort. Given his level of experience, time with us, and attitude, I'm not concerned. I look forward to the improvements that will come in this area.
 
 
 **8. QUALITY OF WORK:**
@@ -139,10 +148,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Again, Will is where I would expect him to be in terms of work output quality. Time and experience will bring with them a commensurate jump in quality, as mastering the basics will free Will up to concentrate more on the qualitative factors that differentiate adequate support from top-notch services & support.
 
 
 **9. QUANTITY OF WORK:**
@@ -157,10 +167,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Service Desk Tech I's are expected to handle a high volume of calls/tickets, and Will is making good progress towards being a standout workhorse.
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:**
@@ -175,10 +186,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Will is basically a solid and reliable member of our team. There have been a couple of issues related to the process of adjusting to a full-time, 8-5 job, but those were easily discussed and dealt with in a positive manner. In all other ways relating to responsibility and dependability, Will completely measures up.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:**
@@ -193,10 +205,11 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
+    Will has a very strong technical base, and he used his time as a student tech well in that he learned our basic technologies (Cherwell, desktop & laptop images) well enough to shorten his learning curve and give him a leg up, and begin learning other technologies sooner than he might have otherwise.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:**
@@ -205,6 +218,7 @@
 
     **Comments:**
 
+    Yes, Will met this requirement.
 
 
 **13. PERFORMANCE STRENGTHS:**
@@ -212,6 +226,11 @@
     **Please highlight the employee's performance strengths in the section provided. Provide short, bullet-style comments for discussion during the employee conference.**
 
     **Comments:**
+
+    Technical Knowledge
+    Desire to Learn
+    Coachable - open to constructive criticism
+    Great Teammate
 
 
 
@@ -221,5 +240,10 @@
 
     **Comments:**
 
-
+    Improve & Expand Knowledge of SD/IT Policies & Procedures
+    Develop Self-Confidence
+    Further Clarify Role - separation from past as student technician
+    Complete HDI Certification
+    Increase Work Output Volume & Quality - calls & tickets
+    Model Best Practices - to/for student technicians
 
