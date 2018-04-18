@@ -217,6 +217,7 @@
 
     **Comments:**
 
+    Yes, Mike met this requirement.
 
 
 **13. PERFORMANCE STRENGTHS:**
@@ -225,6 +226,11 @@
 
     **Comments:**
 
+    Dependable & Accountable
+    Outstanding Colleague
+    Great Attitude - even in times of stress
+    Wants to Improve & Learn - both technology and process/operations/strategy
+    Coachable
 
 
 **14. AREAS FOR IMPROVEMENT:**
@@ -233,5 +239,9 @@
 
     **Comments:**
 
+    Self-Confidence
+    Decision-making
+    Expanding & Developing Experience(s) outside of basic call & ticket processing
+    Improve Ticket Documentation - as a way of aiding Tier 2/3 support, modeling best practice for peers, and developing a forensic, evidentiary base for research & planning
 
 
