@@ -1,6 +1,6 @@
 :Title: FTE APA Template
 :Author: Glen Piper
-:Date: 2018.Apr.16
+:Date: 2018.Apr.18
 :Subject: Viser, Derrell
 .. (This is a template for drafting the 2018 APAs for the Service Desk)
 
@@ -16,6 +16,8 @@
     **1 - Does Not Meet** - Has a minimum understanding of policies, procedures, and rules
 
     **Weight:** 10%
+
+    Selected:
 
     **Comments:**
 
@@ -33,8 +35,9 @@
 
     **Weight:** 9%
 
-    **Comments:**
+    Selected:
 
+    **Comments:**
 
 
 **3. EXTERNAL COMMUNICATION:**
@@ -48,6 +51,8 @@
     **1 - Does Not Meet** - Lacks understanding of external departments; fails to consider their impact on other departments
 
     **Weight:** 9%
+
+    Selected:
 
     **Comments:**
 
@@ -65,6 +70,8 @@
 
     **Weight:** 9%
 
+    Selected:
+
     **Comments:**
 
 
@@ -81,6 +88,8 @@
     **1 - Does Not Meet** - Fails to consider others; not courteous; lacks understanding
 
     **Weight:** 9%
+
+    Selected:
 
     **Comments:**
 
@@ -114,6 +123,8 @@
 
     **Weight:** 9%
 
+    Selected:
+
     **Comments:**
 
 
@@ -127,6 +138,8 @@
     **1 - Does Not Meet** - Makes frequent and recurrent errors
 
     **Weight:** 9%
+
+    Selected:
 
     **Comments:**
 
@@ -144,6 +157,8 @@
 
     **Weight:** 9%
 
+    Selected:
+
     **Comments:**
 
 
@@ -160,6 +175,8 @@
 
     **Weight:** 9%
 
+    Selected:
+
     **Comments:**
 
 
@@ -175,6 +192,8 @@
     **1 - Does Not Meet** - Lacks basic knowledge of technology
 
     **Weight:** 9%
+
+    Selected:
 
     **Comments:**
 
