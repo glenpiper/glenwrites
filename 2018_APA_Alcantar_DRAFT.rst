@@ -185,8 +185,11 @@
 
     **Weight:** 9%
 
+    Selected: 4
+
     **Comments:**
 
+    While Mike was always willing to take on assignments and accountability, he has really stepped up during the past year. Rarely do I need to seek him out and remind him of tasks and deadlines. On the one occasion that he initially avoided accountability, when I presented him with the facts and reiterated that we operate in a culture of accountability & improvement, not blame & reprisal, Mike quickly responded with improved performance.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:**
@@ -200,6 +203,8 @@
     **1 - Does Not Meet** - Lacks basic knowledge of technology
 
     **Weight:** 9%
+
+
 
     **Comments:**
 
