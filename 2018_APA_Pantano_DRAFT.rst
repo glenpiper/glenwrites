@@ -17,7 +17,7 @@
 
     **Weight:** 10%
 
-    Selected:
+    Selected: 4
 
     **Comments:**
 
@@ -35,7 +35,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 5
 
     **Comments:**
 
@@ -52,7 +52,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 4
 
     **Comments:**
 
@@ -70,7 +70,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 5
 
     **Comments:**
 
@@ -89,7 +89,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 4
 
     **Comments:**
 
@@ -107,7 +107,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 4
 
     **Comments:**
 
@@ -125,7 +125,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 4
 
     **Comments:**
 
@@ -141,7 +141,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 4
 
     **Comments:**
 
@@ -159,7 +159,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 5
 
     **Comments:**
 
@@ -177,7 +177,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 4
 
     **Comments:**
 
@@ -195,7 +195,7 @@
 
     **Weight:** 9%
 
-    Selected:
+    Selected: 3
 
     **Comments:**
 
@@ -207,6 +207,7 @@
 
     **Comments:**
 
+    Yes, Josh met this requirement.
 
 
 **13. PERFORMANCE STRENGTHS:**
