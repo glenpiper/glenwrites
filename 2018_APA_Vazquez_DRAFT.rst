@@ -152,7 +152,7 @@
 
     **Comments:**
 
-
+    Norma does very good work. Rarely have I had to go back and make corrections because of inaccuracies or careless mistakes. I can count on her to produce high quality work product.
 
 
 **9. QUANTITY OF WORK:**
@@ -170,6 +170,7 @@
     Selected: 4
 
     **Comments:**
+
 
 
 
