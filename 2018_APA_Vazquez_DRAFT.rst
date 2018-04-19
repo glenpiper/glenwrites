@@ -227,7 +227,10 @@
 
     **Comments:**
 
-
+    Experience & Organizational Knowledge
+    Commitment & Passion
+    Process & Policy Oriented
+    Client Centric
 
 
 **14. AREAS FOR IMPROVEMENT:**
@@ -236,5 +239,8 @@
 
     **Comments:**
 
-    Leadership - develop skill set to move beyond just offering/making suggestions for improvements, to offering a plan for developing, implementing, and getting buy-in for the change
+    Leadership - work on not being afraid to step up/out with ideas to offer/present them for discussion (disagreement, debate, and consensus are good)
+    Change Management (not ITIL) - develop skill set to move beyond just offering/making suggestions for improvements, to offering a plan for developing, implementing, and getting buy-in for the change
+    Communication Style - develop a style that is viewed/received/perceived as less directive and more open/collaborative
+    Knowledge Management - continue development work on current knowledge base, and pursue the larger KCM migration proposal discussion
 
