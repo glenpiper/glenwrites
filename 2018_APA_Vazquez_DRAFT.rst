@@ -116,6 +116,7 @@
 
     **Comments:**
 
+    Norma knows most all of her job duties and how they should be done. She quite effectively brings her skills, knowledge, and experience to bear in understanding the proper daily operation of, and continual efforts to improve, the Service Desk.
 
 
 **7. ORGANIZATION AND USE OF TIME:**
@@ -133,6 +134,7 @@
     Selected: 4
 
     **Comments:**
+
 
 
 
