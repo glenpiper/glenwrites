@@ -135,7 +135,7 @@
 
     **Comments:**
 
-
+    Norma is disciplined and professional in her prioritization and time management skills. I can count on her to make good decisions as well as to ask for direction/advice when she needs it.
 
 
 **8. QUALITY OF WORK:**
@@ -151,6 +151,7 @@
     Selected: 4
 
     **Comments:**
+
 
 
 
