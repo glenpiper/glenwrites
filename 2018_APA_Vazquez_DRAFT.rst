@@ -171,7 +171,7 @@
 
     **Comments:**
 
-
+    Norma's work output is strong. She produces a lot (e.g., QA reviews of student tickets and call recordings, knowledge articles, etc.) and can be counted on to get more challenging tasks like the initial Local Admin Users Account audit coordinated and completed.
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:**
@@ -189,6 +189,7 @@
     Selected: 4
 
     **Comments:**
+
 
 
 
@@ -233,5 +234,5 @@
 
     **Comments:**
 
-
+    Leadership - develop skill set to move beyond just offering/making suggestions for improvements, to offering a plan for developing, implementing, and getting buy-in for the change
 
