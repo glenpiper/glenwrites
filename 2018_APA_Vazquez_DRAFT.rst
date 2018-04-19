@@ -40,6 +40,8 @@
 
     **Comments:**
 
+    Norma takes a great deal of pride in her work. Not only does she want to positively represent the group, department, division, and university with her work, but she also is driven to ensure that the work done by the Service Desk, Client Services, and IT@Sam positively represents her. These are both highly commendable motivations. Her positive attitude about the Service Desk, its staff, and the work we do reveals itself in how she cares about each individual, both personally and professionally. This has a positive impact on overall morale.
+
 
 **3. EXTERNAL COMMUNICATION:**
 
@@ -56,6 +58,7 @@
     Selected: 3
 
     **Comments:**
+
 
 
 
