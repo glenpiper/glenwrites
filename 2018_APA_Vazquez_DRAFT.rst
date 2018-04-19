@@ -55,11 +55,11 @@
 
     **Weight:** 9%
 
-    Selected: 3
+    Selected: 4
 
     **Comments:**
 
-
+    Norma has cultivated many working relationships all around campus, which she is able to utilize in the pursuit of high quality, client centric, support services. She also cares deeply about doing things for the benefit of the client experience and for the right reasons. This motivation guides her and helps her work well with clients of all types, even when things get difficult.
 
 
 **4. INITIATIVE:**
