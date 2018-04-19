@@ -176,6 +176,8 @@
 
     **Comments:**
 
+    Josh quickly established himself as capable of producing a high volume of work output, quickly adjusting to his job duties during the peak of the Windows 10 upgrade rollout. He did not buckle under the load, and in fact showed himself to be productive, fast, and efficient. These work characteristics continued throughout the rest of the year.
+
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:**
@@ -194,6 +196,7 @@
 
     **Comments:**
 
+    Josh is very reliable and responsible. I can count on him to know what he is supposed to do, to do what he is asked to do, and to be responsible for asking good questions when he needs guidance. He is still learning our environment and his full set of duties, so there is room for improvement, but his performance to date has been better than expected for a new Tech I in his first year.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:**
@@ -212,6 +215,7 @@
 
     **Comments:**
 
+    Josh is still developing and expanding his technical skill set and base of knowledge. He has been a quick study of our primary tools & resources, and continues to mature in his knowledge & use of them, while actively pursuing the expansion of his knowledge. He is aware of where he needs & wants further development, and is willing to put in the work that it will take to get the job done.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:**
@@ -229,6 +233,12 @@
 
     **Comments:**
 
+    Great Attitude
+    Great Teammate
+    Coachable - willing to listen and accept constructive criticism & feedback, mindfully incorporating it into improvements
+    Thoughtful - able to see the bigger picture, how things fit together, and not get unnecessarily lost in the grass
+    Technically Able - current skill set is solid, able & willing to work hard to expand/improve it
+    Personable - able to quickly establish positive, productive rapport with clients, facilitating efficient & effective resolutions
 
 
 **14. AREAS FOR IMPROVEMENT:**
@@ -237,5 +247,10 @@
 
     **Comments:**
 
+    Expand/Extend Skill Set - deepen familiarity & experience with policies, procedures, and current standard technologies
+    Professional Development - identify focus & next step in more formal training efforts
+    Self-Confidence & Decision-Making - in parallel with gaining experience, work on ways to be more confident and assured in assessing situations
+    Communication - refine professional communication skills to enhance effectiveness & efficiency of solution delivery
+    Documentation - continue to develop documentation skills, to make tickets more useful to Tier 2/3 groups (when assigned) and to the SD (when used for teaching and forensic purposes)
 
 
