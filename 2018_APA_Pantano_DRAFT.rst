@@ -21,6 +21,7 @@
 
     **Comments:**
 
+    In his first 8.5 months at the Service Desk Josh has exhibited tremendous growth in his knowledge & application of our policies and procedures. He has taken the initiative to learn on his own and, when necessary/appropriate, has asked good questions, applying and retaining the information so that he doesn't have to ask the same question multiple times.
 
 
 **2. ATTITUDE:**
@@ -39,6 +40,8 @@
 
     **Comments:**
 
+    Josh has an outstanding work ethic, is highly self motivated, and is a great teammate. He not only takes pride in his own work, but he also makes the extra effort to ensure that the group/department/division are well represented to clients. He models positive behaviors, and goes out of his way to encourage and assist Service Desk team members in an effort to achieve performance goals and to keep a positive atmosphere in the Service Desk.
+
 
 **3. EXTERNAL COMMUNICATION:**
 
@@ -56,6 +59,7 @@
 
     **Comments:**
 
+    Josh has proven to be extremely skilled at working with clients, even when handling the most difficult of incidents. He is very customer service centric and is able to represent the interests of both the client and IT without giving one short shrift. Josh has also been diligent in building relationships with others in IT, representing well himself and the Service Desk.
 
 
 **4. INITIATIVE:**
@@ -74,6 +78,7 @@
 
     **Comments:**
 
+    During his short time at the Service Desk, Josh has excelled at identifying, proposing, and completing tasks outside of his normal job duties. An example of this is the work he did in identifying the gap in the Adobe Creative Cloud Desktop App installation process, which he then addressed by quickly developing & testing a workable install process, and then looping me in so that it could be fast tracked for approval & use by the Service Desk to assist clients. Josh was also invaluable during the Hurricane Harvey crisis, volunteering to be available for Service Desk work as needed during that difficult week.
 
 
 
@@ -93,6 +98,8 @@
 
     **Comments:**
 
+    Josh has been a great addition to the Service Desk. He's a great teammate who gets along with his peers, gets along with the students while still maintaining the necessary authority with them, and has proven quite adept at being able to productively and respectfully interact with people at all levels of the org chart.
+
 
 
 **6. JOB KNOWLEDGE:**
@@ -107,9 +114,11 @@
 
     **Weight:** 9%
 
-    Selected: 4
+    Selected: 3
 
     **Comments:**
+
+    Josh has been a quick study, learning a great deal about our technology environment in a relatively short time. He is quickly overcoming his lack of a deep technical base, using his solid tech skill set & his very strong desire to learn, to rapidly absorb new knowledge & skills. He then leverages them with his growing experience to move towards greater understanding and, eventually, mastery.
 
 
 
@@ -129,6 +138,8 @@
 
     **Comments:**
 
+    Josh is skilled at providing himself with most of the structure he needs to be comfortable and productive. He is quite good about utilizing his time, and is able to handle the inevitable changes & unusual situations that crop up without warning. Josh has yet to disappoint me by missing a deadline.
+
 
 
 **8. QUALITY OF WORK:**
@@ -144,6 +155,8 @@
     Selected: 4
 
     **Comments:**
+
+    Josh produces high quality work product. Errors are few and far between. He asks good questions and retains the knowledge from the answers. There is some improvement to be had in ticket documentation, but progress is being made, which I fully expect to continue.
 
 
 
