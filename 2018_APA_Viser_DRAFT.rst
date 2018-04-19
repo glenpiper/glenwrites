@@ -21,6 +21,7 @@
 
     **Comments:**
 
+    DJ has an exceptional knowledge of the policies and procedures that are unique to TWC, and does an admirable job of keeping me aware of them, as well as keeping them as well integrated with general IT/CS policies & processes as possible.
 
 
 **2. ATTITUDE:**
@@ -39,6 +40,8 @@
 
     **Comments:**
 
+    DJ invariably has a great attitude, even when things get quirky and/or really frustrating. He has an affability that lends itself to making him successful as the lone IT/CS representative at a site as busy as TWC. I regularly get comments and reports regarding the esteem in which he is held.
+
 
 **3. EXTERNAL COMMUNICATION:**
 
@@ -52,10 +55,11 @@
 
     **Weight:** 9%
 
-    Selected: 4
+    Selected: 5
 
     **Comments:**
 
+    As noted previously, DJ works extremely well with a large (and often demanding) cross section of clients, ranging from students to staff to faculty, to administrators, to guests & visitors. And as a representative of four Client Services groups (Service Desk, Tech Shop, A/V, Labs & Classrooms), DJ is interacting with that client base in a wider range of roles than would be the case on main campus. He has built, and actively maintains, a reputation as friendly, approachable, knowledgeable, and effective.
 
 
 **4. INITIATIVE:**
@@ -74,6 +78,7 @@
 
     **Comments:**
 
+    Out of necessity, DJ wears many hats. When given the proper training and instruction, he is able to get things done. He actively seeks to expand his base of knowledge and skill. He has also demonstrated an appreciation of the importance of taking initiative to get things done, not just waiting to be told to do something.
 
 
 
@@ -93,6 +98,7 @@
 
     **Comments:**
 
+    From a Service Desk perspective, DJ is a very good teammate and gets along extremely well with everyone. This past year a more concerted effort was made to try and better integrate him into the team flows of Tech Shop, A/V, and Labs & Classrooms. While some progress was made, the physical separation and the past view of DJ as just a Service Desk member served to make things a little more challenging. I believe that much progress will be made in the coming year, particularly once a new manager for Tech Shop, A/V, and Labs & Classrooms comes aboard.
 
 
 **6. JOB KNOWLEDGE:**
@@ -111,6 +117,7 @@
 
     **Comments:**
 
+    Again, through no real fault of his own, DJ suffered from the many hats he wears. From a Service Desk perspective, DJ easily earned a "4-Above" and I would also rank his work in much of his Tech Shop duties to be in the 3-4 range (leaning to a 4). That said, the issue lies with his A/V skills & knowledge. DJ has a decent working knowledge, in that does an admirable job keeping that technology base up and running. However, he suffers from a lack of specific, related training that would serve to enhance his experience & practice, and allow him to be more efficient and effective.
 
 
 **7. ORGANIZATION AND USE OF TIME:**
@@ -129,6 +136,7 @@
 
     **Comments:**
 
+    By dint of necessity, DJ is good at planning (both by/for himself, and in conjunction with others when looped in), and he has demonstrated repeatedly that he can handled whatever unusual situations get thrown his way.
 
 
 **8. QUALITY OF WORK:**
@@ -145,6 +153,7 @@
 
     **Comments:**
 
+    DJ does good work across all his duties. He requires little oversight/direct supervision, and I can count on him to contact me when he has questions or needs direction.
 
 
 **9. QUANTITY OF WORK:**
@@ -163,6 +172,7 @@
 
     **Comments:**
 
+    As stated several times, DJ wears many hats and so it follows that he does a lot of things & produces a lot of work product. Every day he gets a lot of different things done.
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:**
@@ -181,6 +191,7 @@
 
     **Comments:**
 
+    DJ is a hard worker, dependable and responsible. He has proven this repeatedly over his time working at TWC, and did so again this year. Every day he gets pulled in many different directions, doing many different things, and every day I know that I can rely on him to get it all completed, the right way, and have satisfied clients.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:**
@@ -199,6 +210,7 @@
 
     **Comments:**
 
+    DJ has learned a great many different things and built a great base of knowledge and skills. He especially knows how things work at TWC, and how the technologies & resources that we make available work in that environment. Additionally, he also knows these technologies & resources well enough that he can provide high quality phone support to non-TWC clients, such that they don't even know that he's at TWC.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:**
@@ -216,6 +228,9 @@
 
     **Comments:**
 
+    Self-Motivation/Direction
+    Desire to Expand Knowledge & Skills
+    Ability to Handle Changes/Uncertainty
 
 
 **14. AREAS FOR IMPROVEMENT:**
@@ -224,5 +239,7 @@
 
     **Comments:**
 
-
+    Documentation - develop skills to enhance utility of ticket documentation for Tier 2/3 use/effectiveness and any future forensic/investigative troubleshooting needs
+    Communication & Integration - especially once new Tech Shop, A/V, Labs & Classrooms manager comes aboard, work on getting more fully & effectively integrated into those group's workflows
+    Skill Set Expansion - especially A/V
 
