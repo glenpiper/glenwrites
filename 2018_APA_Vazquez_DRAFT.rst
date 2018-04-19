@@ -17,10 +17,11 @@
 
     **Weight:** 10%
 
-    Selected: 4
+    Selected: 3
 
     **Comments:**
 
+    Norma continues to be a tremendous source of knowledge about the past development of policies & processes - i.e., original intent and how things might have evolved over time to get into a current state. This knowledge is often key in identifying and understanding current gaps, and how to begin addressing them. Norma can sometimes get frustrated when (cooperative/consensus-driven) new process/procedure development takes longer than expected.
 
 
 **2. ATTITUDE:**
