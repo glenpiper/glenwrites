@@ -74,11 +74,11 @@
 
     **Weight:** 9%
 
-    Selected: 3
+    Selected: 4
 
     **Comments:**
 
-
+    Norma likes to learn and is always willing to pursue new knowledge, whether it be expanded knowledge about a current technology, or learning about something new in order to help begin the process of evaluating it for potential future use at the university.
 
 
 **5. INTERPERSONAL RELATIONS:**
