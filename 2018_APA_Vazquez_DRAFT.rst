@@ -209,7 +209,7 @@
 
     **Comments:**
 
-
+    Norma's experience with, and knowledge of, our shared technology resources is a tremendous asset. As with the history of policies and processes, Norma has a long history with the technology standards that we've used and continue to use. This brings daily benefit to the Service Desk.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:**
@@ -226,6 +226,7 @@
     **Please highlight the employee's performance strengths in the section provided. Provide short, bullet-style comments for discussion during the employee conference.**
 
     **Comments:**
+
 
 
 
