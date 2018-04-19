@@ -190,7 +190,7 @@
 
     **Comments:**
 
-
+    Generally speaking, Norma is very responsible and dependable - I can count on her. She is willing to take on assignments & accountability. An area I would like to see her focus on in the upcoming year is moving past the baggage of the past, particularly regarding internalizing (and acting from) our "Culture of Accountability" vs. the "Culture of Blame" that seems to have informed much past experience.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:**
@@ -208,6 +208,7 @@
     Selected: 4
 
     **Comments:**
+
 
 
 
