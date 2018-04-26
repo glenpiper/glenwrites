@@ -1,0 +1,45 @@
+Roles
+
+
+# What are the Main Issues?
+
+
+##Overall
+
+1. Lack of Clarity in Definitions
+    * Roles
+    * Relationships
+    * Commonly Used/Held Language/Words
+2. Cruft/Inertia from the Past
+    * "This is how it's been done..."
+    * Politics
+    * A need to do a zero-based review & start over w/honest, difficult discussions based on current realities & needs
+3. Resources vs. Given Responsibility vs. Perceived Need(s)
+    * Desire, or perceived need, to provide a service is not equivalent to a formal/official charge to provide that service
+    * Resources are given only to provide those services/tasks that have been formally given
+    * The level of resources given can dictate the level to which the charged services can be reasonably provided/met
+    * Resources given to another area, for other service(s), cannot be de facto assumed as available for under-resourced service providers
+
+## Relationships
+
+*While all certainly related in a larger sense, each relationship below is somewhat unique in terms of existing primarily on its own plane.*
+
+1. Robin / Kumara
+    * Glen/Director of IT Support for Academic Services*
+2. IS / OLT
+    * Helpdesk / OLT :: *Flow Along Student Functional Support Continuum*
+    * MIS / OLT :: *Flow Along Faculty Technical & Functional Support Continuums* 
+3. Technical / Functional Support
+    * Define "technical" & "functional" to a commonly held/agreed understanding
+    * Lay out the continuum of both student and faculty user support processes, such that a framework for understanding the flow/distinction between "technical" and "functional" is reasonable and clear.
+
+Once the hard work of laying out a framework for common understanding is done, then the work can be done to build upon that framework based on the clear and unique charges that each side brings to the table. Frustration can be avoided by embracing the fact that folks have different jobs/responsibilities/etc... Let people do the jobs they've been charged to do, with the resources they've been given to do them, don't expect them to do other jobs to make up shortfalls "just because it ***needs*** to be done, and then hold them accountable to both do their jobs ***and*** to work together as a team.
+
+
+***1**** Director of IT for Academic Services -- This position isn't so much in direct relationship with anyone else as much as it is itself; i.e., it's a bridge between IS and Academic Affairs, with the occupant of the position charged to accomplish particular things. In light of this, well, oddness (at least relative to the previously listed, clearer relationships...), it would behoove us to focus more on other topics for this position...
+
+1. Understand Overall Needs - e.g., Strategic vs. Operational
+    * There are currently many resources dedicated technical & functional support; however, if the main goal is to drive online & tech adoption/use, then it seems that a better focus would be on strategy and engagement, rather than support
+    * Clarity is key
+    * Project & operational need to be properly understood distinct/managed -- i.e., roles, boundaries, and relationships need to be drawn as clearly as possible (while still maintaining necessary flexibility...)
+    * More text to come (after more thought...)Another line to be added...

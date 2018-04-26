@@ -1,11 +1,13 @@
-Title: 2017-18 APA - Self Evaluation  
-Author: Glen Piper  
-Date: April 8, 2018  
+<!--
+	Title: 2017-18 APA - Self Evaluation
+	Author: Glen Piper
+	Date: April 8, 2018
 
-[//]: # (This is a copy of what got entered into the official)  
-[//]: # (Talent Management APA Self Evaluation instrument on 04/-8/2018)  
+	(This is a copy of what got entered into the official)  
+	(Talent Management APA Self Evaluation instrument on 04/-8/2018)
+-->
 
-##2017-18 APA Self Evaluation  
+## 2017-18 APA Self Evaluation  
 
 **(1) Describe your most notable accomplishments during the past year.**  
 
