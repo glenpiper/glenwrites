@@ -18,10 +18,10 @@
 
 *Weight: 10%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Tilly has made strides this year in learning policies, procedures, and rules, clearly showing growth beyond what’s expected from student technicians, to that which is expected of a Tech I. Consistently, she has displayed quality knowledge & application.
 
 
 **2. ATTITUDE:
@@ -36,9 +36,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
+Tilly shows great pride in both her work product, and her role as a member of the SD team. She is consistently a leader in maintaining good morale.
 
 
 **3. EXTERNAL COMMUNICATION:
@@ -53,10 +54,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 3
 
 *Comments:
-
+Tilly continues to develop these skills. She is well regarded, and carries herself well when interacting with others.
 
 
 **4. INITIATIVE:
@@ -71,10 +72,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 3
 
 *Comments:
-
+Tilly is effective in carrying out instructions, and handles change well. She is on an upward trajectory in developing the skills necessary for self-initiating tasks & completing tasks ahead of schedule.
 
 
 **5. INTERPERSONAL RELATIONS:
@@ -89,9 +90,10 @@ Selected:
  
 *Weight: 9%
 
-Selected:
+Selected: 3
 
 *Comments:
+Tilly is a very good teammate, working very well with the other members of the SD team. Increased levels of experience and self-confidence should easily result in continued improvements in this area.
 
 
 **6. JOB KNOWLEDGE:
@@ -106,9 +108,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 3
 
 *Comments:
+Tilly continues to develop & expand her skills base. As this effort progresses, confidence & outcomes will no doubt improve.
 
 
 **7. ORGANIZATION AND USE OF TIME:
@@ -123,10 +126,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 3
 
 *Comments:
-
+Tilly is a regular & reliable contributor.
 
 
 **8. QUALITY OF WORK:
@@ -139,10 +142,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 3
 
 *Comments:
-
+Tilly requires an acceptable amount of supervision & oversight. Her work is largely accurate & timely.
 
 
 **9. QUANTITY OF WORK:
@@ -157,10 +160,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 
 
 *Comments:
-
+Tilly’s quantity of work product is solid and in-line with expectations.
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:
@@ -175,10 +178,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Over the course of a day, Tilly requires little oversight while being very dependable. Of note has been her willingness to assume the responsibility of opening the SD, even to the recent adjustment of arriving at 7:15am so as to ensure the opening of the SD phone queue by 7:30am.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:
@@ -193,10 +196,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Tilly continues to build her base of experience & knowledge. She has improved over the course of this past year, increasing her knowledge of the technologies we use & support.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:
@@ -204,7 +207,7 @@ Selected:
 *Has the employee met the professional development training requirement? (8 hours for staff or 12 hours for managers). A response is required.
 
 *Comments:
-
+Yes, she met this requirement.
 
 
 **13. PERFORMANCE STRENGTHS:
@@ -212,7 +215,9 @@ Selected:
 *Please highlight the employee's performance strengths in the section provided. Provide short, bullet-style comments for discussion during the employee conference.
 
 *Comments:
-
+- Desire & willingness to learn
+- Great teammate
+- Coachable
 
 
 **14. AREAS FOR IMPROVEMENT:
@@ -220,4 +225,5 @@ Selected:
 *Please highlight the employee's areas for improvement in the section provided. Provide short, bullet-style comments for discussion during the employee conference.
 
 *Comments:
-
+- Further expand skills/knowledge base
+- Self-confidence

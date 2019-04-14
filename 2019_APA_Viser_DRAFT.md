@@ -18,10 +18,10 @@
 
 *Weight: 10%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Despite having to deal with a constantly/consistently changing set of circumstances at TWC, as well as carrying out duties from several CS groups, DJ is able to successfully leverage his exceptional knowledge of the environment.
 
 
 **2. ATTITUDE:
@@ -36,9 +36,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
+DJ has excelled this past year in projecting a positive attitude and image of IT at TWC. He has continued to shine in working with every group that he’s a part of (SD, Tech Shop, A/V, Asset Management).
 
 
 **3. EXTERNAL COMMUNICATION:
@@ -53,10 +54,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
-
+As noted elsewhere, DJ has a wide-ranging set of duties & expectations. Once again this year, he interacted with them all in an unfailingly positive, effective, and productive manner.
 
 
 **4. INITIATIVE:
@@ -71,10 +72,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Much is expected of DJ, and he delivers in an ever-changing environment. Part of how he does this is via the initiative he shows in learning new things.
 
 
 **5. INTERPERSONAL RELATIONS:
@@ -89,9 +90,10 @@ Selected:
  
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
+DJ is a great ambassador for IT@Sam, serving as the primary on-site representative at TWC. He is a great teammate and is well thought of by everyone in CS. He is extremely well liked by clients & leadership at TWC. He has continued to display (and improve on) these skills, even as demands & changes increased over this past year.
 
 
 **6. JOB KNOWLEDGE:
@@ -106,9 +108,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
+DJ has what I consider to be the widest-ranging responsibility portfolio of any technician in Client Services, if not IT@Sam. He has admirably kept up with these increased expectations and continued to develop the skills necessary to excel.
 
 
 **7. ORGANIZATION AND USE OF TIME:
@@ -123,10 +126,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
-
+In order to keep up with the increased expectations & requirements resulting from the growth experienced by/at TWC, DJ has increased his own, already good, organization & time management skills.
 
 
 **8. QUALITY OF WORK:
@@ -139,10 +142,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+DJ continues to do great work, across the wide swath of areas in his purview. He requires little supervision while maintaining a high level of outcomes with his SD duties. He has gotten more supervision as a part of his other duties (Tech Shop, A/V, Labs & Classrooms, Asset Management), but it is in no way excessive or unreasonable.
 
 
 **9. QUANTITY OF WORK:
@@ -157,10 +160,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+DJ gets a lot done. Much work output is expected. DJ gets more done.
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:
@@ -175,10 +178,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
-
+DJ continues to identify, take on, and get assignments done. Consistently he’s highly responsible & dependable.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:
@@ -193,10 +196,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+DJ knows a great deal about a great many things & technologies, and is able to bring that to bear on a daily basis. He is able to learn quickly and then apply that new knowledge effectively.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:
@@ -204,7 +207,7 @@ Selected:
 *Has the employee met the professional development training requirement? (8 hours for staff or 12 hours for managers). A response is required.
 
 *Comments:
-
+Yes, DJ met this requirement.
 
 
 **13. PERFORMANCE STRENGTHS:
@@ -212,7 +215,10 @@ Selected:
 *Please highlight the employee's performance strengths in the section provided. Provide short, bullet-style comments for discussion during the employee conference.
 
 *Comments:
-
+- Strong self-motivation
+- Ability to effectively work with wide range of people
+- Ability to effectively work within change/uncertainty
+- Technical skills
 
 
 **14. AREAS FOR IMPROVEMENT:
@@ -220,4 +226,6 @@ Selected:
 *Please highlight the employee's areas for improvement in the section provided. Provide short, bullet-style comments for discussion during the employee conference.
 
 *Comments:
-
+- Non-SD skillset expansion
+- Further integration into other CS groups
+- Documentation
