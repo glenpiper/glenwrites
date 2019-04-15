@@ -18,10 +18,10 @@
 
 *Weight: 10%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Norma continues to be an invaluable resource for keeping the team aware of, and aligned with, proper policies, procedures, and rules.
 
 
 **2. ATTITUDE:
@@ -36,9 +36,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
+Norma works hard to be positive and encouraging to everyone on the team. A major component of her pride in her work is her pride in the team & all its members. High morale is clearly important to her.
 
 
 **3. EXTERNAL COMMUNICATION:
@@ -53,10 +54,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Norma continued to nurture previously cultivated relationships, while still working to develop new ones. Her desire to represent client (and thus institutional) interests remains significant & strong.
 
 
 **4. INITIATIVE:
@@ -71,10 +72,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Norma remained a source of ideas on how to improve SD outcomes. She is invariable perceptive, well intentioned, and thoughtful. She willingly seeks out new knowledge.
 
 
 **5. INTERPERSONAL RELATIONS:
@@ -89,9 +90,10 @@ Selected:
  
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
+Norma made significant improvement in this area over the past year. She has been more mindful of perception/reception, and the impact that tone can bring to an interaction. Perhaps most important, Norma has been an open & willing participant in the process to this point, even when difficult.
 
 
 **6. JOB KNOWLEDGE:
@@ -106,10 +108,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Norma knows what needs to be done at the SD, and the importance of keeping knowledge & skill levels uptimes to date in meeting that mission. She works hard to consistently maintain & raise those levels.
 
 **7. ORGANIZATION AND USE OF TIME:
 
@@ -123,10 +125,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Norma is very well organized, keeping on top of what she, and the group, needs to have done & when it needs to be done by. She uses her time well, and is adept at task prioritization.
 
 
 **8. QUALITY OF WORK:
@@ -139,10 +141,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
-
+Norma consistently produces work output of a high quality. I count on her accuracy, thoroughness, and ability to work with a minimum of oversight.
 
 
 **9. QUANTITY OF WORK:
@@ -157,10 +159,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Norma’s quantity of work product remained strong, always meeting  (while often exceeding) the high standard of expectations she has set.
 
 
 **10. RESPONSIBILITY AND DEPENDABILITY:
@@ -175,10 +177,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 5
 
 *Comments:
-
+Norma is willing to step up and take on extra assignments & accountability if/when/as needed. Norma’s example of reliability has been indicative of her desire to lead by example.
 
 
 **11. USE OF REQUIRED TECHNOLOGY:
@@ -193,10 +195,10 @@ Selected:
 
 *Weight: 9%
 
-Selected:
+Selected: 4
 
 *Comments:
-
+Norma works hard to keep up with the ever-changing list of technologies in use at, and supported by, the SD. She actively seeks out new knowledge & skills.
 
 
 **12. PROFESSIONAL DEVELOPMENT REQUIREMENT:
@@ -204,7 +206,7 @@ Selected:
 *Has the employee met the professional development training requirement? (8 hours for staff or 12 hours for managers). A response is required.
 
 *Comments:
-
+Yes, Norma met this requirement.
 
 
 **13. PERFORMANCE STRENGTHS:
@@ -212,7 +214,9 @@ Selected:
 *Please highlight the employee's performance strengths in the section provided. Provide short, bullet-style comments for discussion during the employee conference.
 
 *Comments:
-
+- Persistence
+- Commitment to improvement
+- Openness to change & process improvement
 
 
 **14. AREAS FOR IMPROVEMENT:
@@ -220,4 +224,6 @@ Selected:
 *Please highlight the employee's areas for improvement in the section provided. Provide short, bullet-style comments for discussion during the employee conference.
 
 *Comments:
+- Continue process of collaborative improvement & openness to change
+- Continue process of improved communication style & awareness of style on recipient perception
 

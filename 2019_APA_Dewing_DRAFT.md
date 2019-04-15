@@ -160,7 +160,7 @@ Tilly requires an acceptable amount of supervision & oversight. Her work is larg
 
 *Weight: 9%
 
-Selected: 
+Selected: 3
 
 *Comments:
 Tilly’s quantity of work product is solid and in-line with expectations.
