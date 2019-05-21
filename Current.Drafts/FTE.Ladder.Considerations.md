@@ -8,23 +8,25 @@
 
 ## Candidates & Considerations  
 
-- **Michael Alcantar**  
-	*•* 2018-19 APA:    
-	*•* Years in Current Position:    
-	*•* Impact re: Strategic Goals:    
-	*•* Notes:    
+- **DJ Viser** - Tech I to Tech II  
+	*•* 2018-19 APA: Above (4.45)  
+	*•* Years in Current Position: 7yr, 3mo  
+	*•* Impact re: Strategic Goals:  
+	- Experience at TWC can be better leveraged as a Tech II  
+		*•*  
+		*•* Notes:
 
-- **Norma Vazquez**   
-	*•* 2018-19 APA:    
-	*•* Years in Current Position:    
-	*•* Impact re: Strategic Goals:    
-	*•* Notes:    
+- **Michael Alcantar** - Tech II to Tech III  
+	*•* 2018-19 APA: Exceeds (4.63)  
+	*•* Years in Current Position: 2yr, 2mo  
+	*•* Impact re: Strategic Goals:  
+	*•* Notes:
 
-- **DJ Viser**  
-	*•* 2018-19 APA:    
-	*•* Years in Current Position:    
-	*•* Impact re: Strategic Goals:    
-	*•* Notes:    
+- **Norma Vazquez** - Tech III to Tech IV  
+	*•* 2018-19 APA: Above (4.27)  
+	*•* Years in Current Position: 7yr, 4mo  
+	*•* Impact re: Strategic Goals:  
+	*•* Notes:
 
 
 >  *Text goes here*
