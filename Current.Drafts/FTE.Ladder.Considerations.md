@@ -33,6 +33,11 @@
 	- **2018-19 APA:** Above (4.27)
 	- **Years in Current Position:** 7yr, 4mo
 	- **Impact re: Strategic Goals:**
+		- Client- & SD staff-centric attitude has consistently provided reinforcement in setting the tone at the SD (*Operational Excellence, Enriching Academic Experience, Communicate+Collaborate*)
+		- Strong focus on ensuring full & effective operational training for all SD staff (FTE & students) (*Operational Excellence, Enriching Academic Experience, Effective Workforce*)
+		- 
 	- **Notes:**
+		- Norma is already doing most of the duties of a SD Tech IV
+		- Norma has had consistently above average APAs as a SD Tech III
 
 
