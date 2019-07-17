@@ -1,17 +1,17 @@
 ### Problem Management Meeting - 190717
-\* 
-* PR 10558 - 
-* PR 10601 - 
-* PR 10616 - 
-* PR 10635 - 
-* PR 10642 - 
-* PR 10649 - 
-* PR 10650 - 
-* PR 10652 - 
-* PR 10657 - 
-* PR 10659 - 
-* PR 10661 - 
-* PR 10662 - 
-* PR 10663 - 
-* SR 305309 - 
-* SR 305615 - 
+
+* PR 10558 - Action items from last meeting done.
+* PR 10601 - n/a
+* PR 10616 - CR for 7/25
+* PR 10635 - Action items done.
+* PR 10642 - Action items carry over to next mtg.
+* PR 10649 - Still moving/working on timeline for pushing out to IT as testing (available in Software Center), then mandatory push will be scheduled.
+* PR 10650 - One node left; UPD; coordinating w/UPD to address
+* PR 10652 - Machines in; working to get priority list together for getting them out; plan to get them in place before start of Fall semester
+* PR 10657 - List to COBA for Fawzi; students checking other areas; time intensive process.
+* PR 10659 - Working with vendor to establish solid process re: updates in the future
+* PR 10661 - 7/20 working session to further determine what happened in order to mitigate any future fallout
+* PR 10662 - open CR 20816 to mitigate
+* PR 10663 - Updates being done; monitoring to determine proper course of action moving forward
+* SR 305615 - IMAP a security vulnerability; need to turn off; will begin process of phasing it out; new accounts won't be set up to access IMAP; update documentation to remove IMAP options/configs; create KA/culture to remove IMAP as a stated/supported option from language
+* SR 305609 - Outlook junk mail settings need to be made consistent across the environment; junk filtering not done/possible when in Online Mode; junk filtering works properly in Cached Mode; current environment is almost all Online Mode, with Cached Mode only if proactively set up by clients
