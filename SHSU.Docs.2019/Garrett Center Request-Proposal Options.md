@@ -1,16 +1,18 @@
 <!--
-	Title: Garrett Center Proposal - Options (DRAFT)
+	Title: Garrett Center Request/Proposal - Options
 	Author: Glen Piper
-	Date: 2019.08.12
+	Date: 2019.08.12 (DRAFT) & 2019.08.15 (FINAL)
 
 	(To lay out the options available to address the Garrett Center request re: GSuite for Education & Current SHSU offerings to meet their stated needs)
 -->
 
-## Garrett Center Request/Proposal Options (DRAFT)  
+## Garrett Center Request/Proposal Options  
 
 **(1) Summary Description **
-The Garrett Center has experienced both technical and usability issues with shared mailbox and calendar. These issues have made collaboration more difficult and laborious than need be.  
-They have requested assistance in addressing these issues by inquiring about the feasibility of using Google’s G-Suite for Education.  
+The Garrett Center has experienced both technical and usability issues with shared mailbox and calendar. These issues have made collaboration more difficult and laborious than need be.
+  
+They have requested assistance in addressing these issues by inquiring about the feasibility of using Google’s G-Suite for Education.
+  
 Below, find two approaches to meeting the needs outlined by the Garrett Center:
 - Access shared mailbox on mobile devices
 - Access shared files via a common drive/work space
@@ -33,6 +35,8 @@ IT@Sam proposes the following, in order to meet the requested services while sta
 	- IT@Sam investigates what needs to be done to fully enable full file sharing & editing via O365 and/or SharePoint, after which documentation & training will be delivered to the Garrett Center staff by an agreed upon date
 
 **(3) Request G-Suite for Education **
-As stated in the previous section, SHSU has standardized on Microsoft product offerings. Google offerings are neither installed, nor supported.   
-That being said, the Garrett Center is certainly able to make a formal request for purchasing access to G-Suite for Education. Such a request would, however, need to go through a more formal project request & evaluation process, as it would necessitate both a departure from/addition to the campus standards, and potentially require changes to back-end IT infrastructure.  
+As stated in the previous section, SHSU has standardized on Microsoft product offerings. Google offerings are neither installed, nor supported.
+  
+That being said, the Garrett Center is certainly able to make a formal request for purchasing access to G-Suite for Education. Such a request would, however, need to go through a more formal project request, evaluation, and approval process, as it would necessitate both a departure from/addition to the campus standards, and potentially require changes to back-end IT infrastructure.
+  
 Currently, an unknown variable is whether or not the Garrett Center is required to use G-Suite for Education by grants and/or agencies. If there is a requirement of this type, then that would constitute a re-examination of all factors/assumptions.
