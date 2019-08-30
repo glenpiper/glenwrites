@@ -10,7 +10,7 @@
 * PR 10661 - Update & ETA status requested from ES/Tip
 * PR 10663 - No change; still with Microsoft on further analysis
 * PR 10666 - No change
-* PR 10668 - No change - Oracle Java removed/replaced per previous plan; 35 nodes in exclusion group that still have Oracle Java installed; list getting developed as to where the nodes are & why they still need it; MA reaching out to CS to engage clients in this process; Terminal servers gettting tested this week
+* PR 10668 - No change - Oracle Java removed/replaced per previous plan; 35 nodes in exclusion group that still have Oracle Java installed; list getting developed as to where the nodes are & why they still need it; MA reaching out to CS to engage clients in this process; Terminal servers getting tested this week
 * PR 10669 - Resolved 
 * PR 10670 - Research & analysis ongoing; offline files being active looks to be related/reason why home drive & profile shares become inaccessible
 * PR 10671 - Two issues: 1) CSS font family related - looks to be fixed; 2) IPv6 related - is getting tested & likely to have IPv6 access turned on for this
