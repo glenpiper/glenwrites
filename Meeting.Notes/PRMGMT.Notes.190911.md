@@ -1,4 +1,4 @@
-### Problem Management Meeting - 190904
+### Problem Management Meeting - 190911
 
 * PR 10558 - No change
 * PR 10601 - No change - Next ITAC subcommittee meets on 9/10
@@ -16,10 +16,3 @@
 * PR 10673 - Assigned to ITSec/Frey
 * PR 10674 - Assigned to Database Admin - Michael McDonald will grab it & document
 
-Topic: Standing Problem Management Meeting - 2019
-Start Time : Sep 4, 2019 14:58
-
-Meeting Recording:
-[https://shsu.zoom.us/recording/share/WHU-m50ddQEITnM4J2PX-p06S9s5NQQW7MilwBYDxG6wIumekTziMw][1]
-
-[1]:	https://shsu.zoom.us/recording/share/WHU-m50ddQEITnM4J2PX-p06S9s5NQQW7MilwBYDxG6wIumekTziMw
