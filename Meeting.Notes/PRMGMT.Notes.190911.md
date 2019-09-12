@@ -14,6 +14,15 @@
 * PR 10670 - KA getting developed to enable workaround/removing cache & resync; AD groups created & testing has begun
 * PR 10673 - No change - Assigned to ITSec/Frey
 * PR 10674 - Assigned to Database Admin - Michael McDonald will grab it & document
+---
 
-* PR 10671 - Resolved - Question for Jurden: does WebDev put in CR when code/non-content changes get made?
-* FYI - SPF issues discussed; SPF fails cannot just be blocked, yet; plan needs to develop to help clients migrate to non-SPF fail; PR should likely be created, but not clear who should be point/owner of the PR
+* FYI - PR 10671 - NOTE - WebDev typically does not put in CR for content changes. WebDev does put in CR for code changes. In this case, updating the template with the font change, a CR probably should’ve been put in
+* FYI - SPF issues discussed; SPF fails cannot just be blocked, yet; plan needs to develop to help clients migrate to non-SPF fail; PR should likely be created, but not clear who should be point/owner of the PR; Marc will create a PR for further discussion at next week’s meeting
+
+---
+Topic: Standing Problem Management Meeting - 2019
+Start Time : Sep 11, 2019 14:50
+Meeting Recording:
+[2019.09.11 Meeting Recording w/Transcript][1]
+
+[1]:	https://shsu.zoom.us/recording/share/zfxT3pquEbm-fFKs8ZsxgUdPHJSJ_UYnUTqzHV_qKhawIumekTziMw
