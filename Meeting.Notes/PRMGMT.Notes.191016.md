@@ -1,24 +1,23 @@
 
 ### Problem Management Meeting - 191016
 
-* PR 10558 - Some CRs for Exchange coming up in next week or two
-* PR 10601 - No change
-* PR 10635 - No change - Test results being evaluated
-* PR 10649 - No change - Communication needs to happen; Discussion on upgrade cycles next meeting
+* PR 10558 - No change - process ongoing
+* PR 10601 - No change - next subcommittee meeting on 10/18
+* PR 10635 - No change - internal validation completed
+* PR 10649 - Discussion on upgrade cycles next meeting
 * PR 10657 - Work continues on reconciling based on a DNS check
 * PR 10661 - No change - coordinating testing
 * PR 10666 - No change - waiting on ES for SR 309391 work
-* PR 10668 - Testing successful; CR for removing from terminal servers; remaining workstations updated within next week
-* PR 10670 - Results of testing evaluated
-* PR 10681 - Subdomain planning requirements in progress
-* PR 10684 - Documentation updated; can be closed out
+* PR 10668 - 
+* PR 10670 - 
+* PR 10680 - Reopened - no change otherwise
+* PR 10681 - No change - subdomain planning requirements in progress
+* PR 10684 - Resolved
 * PR 10685 - No change
 
 ---- 
 Discussions:
 
-* PR 10680 - Reopened; discussion had; clarity found
-* PR 10673 - Discussion had; tabled until further questions raised 
 
 ---- 
 Topic: Glen Piper's Personal Meeting Room
