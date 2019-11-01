@@ -22,6 +22,9 @@ Discussions:
 
 ---- 
 Topic: Glen Piper's Personal Meeting Room
+Start Time : Oct 30, 2019 15:06
 
+Meeting Recording:
+[2019.10.30 Meeting Recording w/Transcript]()
 
 
