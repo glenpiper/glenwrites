@@ -18,7 +18,7 @@
 ---- 
 Discussions:
 
-- PR 10649 - Discussion on upgrade cycles pushed to next meeting when all involved areas are present
+- PR 10649 - Discussion on upgrade cycles deferred to outside/other meetings
 
 ---- 
 Topic: Glen Piper's Personal Meeting Room
