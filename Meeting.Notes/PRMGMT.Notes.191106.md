@@ -1,24 +1,24 @@
 
 ### Problem Management Meeting - 191106
 
-* PR 10558 - big systems done, finishing out with smaller systems (fewer than 10 endpoints); progressing
-* PR 10601 - No change - ITAC Subcommittee progressing
-* PR 10635 - No change - CR completed to push changes into prod; can be resolved
-* PR 10649 - Upgrades (push) progressing over the next four weeks
-* PR 10657 - No change
-* PR 10661 - No change
-* PR 10666 - Discussion/update based on 10/16 journal note
-* PR 10668 - Discussion/update based on updated mitigation spreadsheet (attached to PR)
-* PR 10670 - No change
-* PR 10680 - 10/23 update
-* PR 10681 - 10/30 journal note
-* PR 10685 - Testing a potential fix
-* PR 10693 - 10/29 update
+* PR 10558 - a few more systems getting done
+* PR 10601 -  
+* PR 10649 - Upgrades (push) progressing over the next few weeks
+* PR 10657 - 
+* PR 10661 - 
+* PR 10666 - 
+* PR 10668 - 
+* PR 10670 - 
+* PR 10680 - 
+* PR 10681 - 
+* PR 10685 - 
+* PR 10693 - 
+* PR 10694 - 
 
 ---- 
 Discussions:
 
-- PR 10649 - Discussion on upgrade cycles deferred to outside/other meetings
+- n/a
 
 ---- 
 Topic: Glen Piper's Personal Meeting Room
