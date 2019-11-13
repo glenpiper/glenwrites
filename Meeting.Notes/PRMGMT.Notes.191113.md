@@ -1,26 +1,26 @@
 
 ### Problem Management Meeting - 191113
 
-* PR 10558 - 
+* PR 10558 - Progress continues
 * PR 10601 - ITAC Subcommittee recommendation sent to IT VP on 11/11
-* PR 10649 - 
-* PR 10657 - 
-* PR 10661 - 
+* PR 10649 - Laptops will need to be accommodated, as they look to be a reason why success rate is down
+* PR 10657 - No change
+* PR 10661 - Resolved
 * PR 10666 - Per 11/11 journal note, Networking verifying next steps
-* PR 10668 - 
+* PR 10668 - MA will need direction from CS re: how to handle the remaining clients (update app/purchase license/exclusions)
 * PR 10670 - No change
 * PR 10680 - No change
 * PR 10681 - No change
 * PR 10685 - Testing continues
-* PR 10693 - 
-* PR 10694 - 
-* PR 10695 - Need to scope groups for testing & eventual push to campus
+* PR 10693 - TS working with UPD on a node; Ray Busby working with vendor for app update
+* PR 10694 - Will be closed out
+* PR 10695 - Fix out in the wild
 
 
 ---- 
 Discussions:
 
-- Windows 10 1809 - intro discussion re: 1709 to 1809 plans. Kenny will be asked about the current plan status (1809 image to CRP?)
+- Windows 10 1809 - updated discussion re: 1709 to 1809 plans. Plan for getting all up to 1809 by Apr 2020 has been run past Networking, and is going to CS next for review. Task sequence getting tweaked for base install image (to be used in CRP).
 
 ---- 
 Topic: Glen Piper's Personal Meeting Room
