@@ -24,4 +24,9 @@ Discussions:
 
 ---- 
 Topic: Glen Piper's Personal Meeting Room
-Start Time : 
+Start Time : Nov 13, 2019 15:01
+
+Meeting Recording:
+[2019.11.13 Meeting Recording w/Transcript][1]
+
+[1]:	https://shsu.zoom.us/recording/share/gKEKIVY72n3XV5GIMAvGpM6ZmSj0AMMfzbQDetyM7aewIumekTziMw
