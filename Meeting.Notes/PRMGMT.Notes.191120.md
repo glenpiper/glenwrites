@@ -20,9 +20,13 @@
 ---- 
 Discussions:
 
-- Windows 10 1809 - The 1709 -> 1809 deployment plan is getting finalized by end of 11/20. Report/revisited next meeting.
+- Windows 10 1809 - The 1709 -\> 1809 deployment plan is getting finalized by end of 11/20. Report/revisited next meeting.
 
 ---- 
-Topic: Glen Piper's Personal Meeting Room
-Start Time : 
+Topic: Standing Problem Management Meeting - 2019
+Start Time : Nov 20, 2019 15:01
 
+Meeting Recording:
+[2019.11.20 Meeting Recording w/Transcript][1] 
+
+[1]:	https://shsu.zoom.us/recording/share/mt18zf9L_GmGQ4Uyoyi0BxZ1kwJG2akLGzNOL635je2wIumekTziMw
