@@ -20,9 +20,13 @@
 ---- 
 Discussions:
 
-- Windows 10 1809 - The 1709 -> 1809 deployment plan is getting finalized by end of 11/20. Report/revisited next meeting.
+- n/a
 
 ---- 
-Topic: 
-Start Time : 
+Topic: Standing Problem Management Meeting - 2019
+Start Time : Nov 27, 2019 14:58
 
+Meeting Recording:
+[2019.11.27 Meeting Recording w/Transcript][1] 
+
+[1]:	https://shsu.zoom.us/recording/share/QP0PrnxIB1k1YODdLb4V5fnT-BAlHs1vcNn_ezxdvdewIumekTziMw
