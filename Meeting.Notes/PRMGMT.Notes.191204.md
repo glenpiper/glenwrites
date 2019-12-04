@@ -23,4 +23,9 @@ Discussions:
 
 ---- 
 Topic: Standing Problem Management Meeting - 2019
+Start Time : Dec 4, 2019 14:57
 
+Meeting Recording:
+[2019.12.04 Meeting Recording w/Transcript][1]
+
+[1]:	https://shsu.zoom.us/recording/share/WpX5vPXLiny0R4pHRwDdAG2ppt4ST6Lbit-2zzCfAriwIumekTziMw
