@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Glen Writes",
+	"icon": "https://micro.blog/glenpiper/avatar.jpg",
+	"home_page_url": "https://www.glenwrites.us/",
+	"feed_url": "https://www.glenwrites.us/feed.json",
+	"items": [
+		
+			{
+				"id": "http://glenpiper.micro.blog/2019/10/31/lets-see-if.html",
+				
+				"content_html": "<p>Let&rsquo;s see if we can&rsquo;t get this thing started&hellip;</p>\n",
+				"content_text": "Let's see if we can't get this thing started...\n",
+				"date_published": "2019-10-31T14:41:59-05:00",
+				"url": "https://www.glenwrites.us/2019/10/31/lets-see-if.html"
+			}
+	]
+}
