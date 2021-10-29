@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
-				"id": "http://glenpiper.micro.blog/2019/10/31/lets-see-if.html",
+				"id": "http://glenpiper.micro.blog/2021/10/29/the-top-twosong.html",
 				
-				"content_html": "<p>Let&rsquo;s see if we can&rsquo;t get this thing started&hellip;</p>\n",
-				"content_text": "Let's see if we can't get this thing started...\n",
-				"date_published": "2019-10-31T14:41:59-05:00",
-				"url": "https://www.glenwrites.us/2019/10/31/lets-see-if.html"
+				"content_html": "<p>The top two-song combo from the same artist evoking what it felt like to have been in high school and college in the &lsquo;80s &ndash;&gt; Shout &amp; Everybody Wants to Rule the World by Tears for Fears.</p>\n\n<p>Tack on Head Over Heels, and you have an unbeatable trio&hellip;</p>\n\n<p><img src=\"https://upload.wikimedia.org/wikipedia/en/3/39/TFF_Shout.jpg?1635510913834\" width=\"316\" height=\"316\" alt=\"\" /><img src=\"https://upload.wikimedia.org/wikipedia/en/6/64/TFF_EWTRTW.jpg?1635510959785\" width=\"316\" height=\"316\" alt=\"\" /><img src=\"https://upload.wikimedia.org/wikipedia/en/9/90/TFF_Head_Over_Heels.jpg?1635511011691\" width=\"316\" height=\"316\" alt=\"\" /></p>\n",
+				"content_text": "The top two-song combo from the same artist evoking what it felt like to have been in high school and college in the '80s --> Shout & Everybody Wants to Rule the World by Tears for Fears.\n\nTack on Head Over Heels, and you have an unbeatable trio...\n\n<img src=\"https://upload.wikimedia.org/wikipedia/en/3/39/TFF_Shout.jpg?1635510913834\" width=\"316\" height=\"316\" alt=\"\" /><img src=\"https://upload.wikimedia.org/wikipedia/en/6/64/TFF_EWTRTW.jpg?1635510959785\" width=\"316\" height=\"316\" alt=\"\" /><img src=\"https://upload.wikimedia.org/wikipedia/en/9/90/TFF_Head_Over_Heels.jpg?1635511011691\" width=\"316\" height=\"316\" alt=\"\" />\n",
+				"date_published": "2021-10-29T07:37:23-05:00",
+				"url": "https://www.glenwrites.us/2021/10/29/the-top-twosong.html"
+			},
+			{
+				"id": "http://glenpiper.micro.blog/2021/10/19/writing-is-not.html",
+				
+				"content_html": "<p>Writing is not easy. Opening oneself up is scary, even if (when) it&rsquo;s done out of a need to vent. More thoughtful writing is, alas, even more difficult because it brings with it introspection. That said, even as there is a part of me that resists being that open, I feel compelled to write. Perhaps it will serve as needed therapy. Perhaps it will be silly and self-indulgent. But, hopefully, it will be internally beneficial and externally (i.e., for the readers) tolerable.</p>\n\n<p>We&rsquo;ll see&hellip;</p>\n",
+				"content_text": "Writing is not easy. Opening oneself up is scary, even if (when) it's done out of a need to vent. More thoughtful writing is, alas, even more difficult because it brings with it introspection. That said, even as there is a part of me that resists being that open, I feel compelled to write. Perhaps it will serve as needed therapy. Perhaps it will be silly and self-indulgent. But, hopefully, it will be internally beneficial and externally (i.e., for the readers) tolerable.\n\nWe'll see...\n",
+				"date_published": "2021-10-19T13:59:20-05:00",
+				"url": "https://www.glenwrites.us/2021/10/19/writing-is-not.html",
+				"tags": ["writing","personal"]
 			}
 	]
 }
